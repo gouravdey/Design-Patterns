@@ -63,7 +63,7 @@
 - Typically, we want to do this if we have more than one option when instantiating object and a simple logic is used to choose correct class.
 
 #### UML Diagram
-![Simple Factory UML Diagram](uml-diagrams/Simple Factory.png)
+![Simple Factory UML Diagram](uml-diagrams/Simple-Factory.png)
 
 #### Implementation Steps
 **Steps**
@@ -80,7 +80,7 @@
 - We let subclasses decide which object to instantiate by overriding the factory method.
 
 #### UML Diagram
-![Factory Method UML Diagram](uml-diagrams/Factory Method.png)
+![Factory Method UML Diagram](uml-diagrams/Factory-Method.png)
 
 #### Implementation Steps
 **Steps**
@@ -95,7 +95,7 @@
 - So we separate client code from concrete objects forming such a set and also from the code which creates these sets.
 
 #### UML Diagram
-![Abstract Factory UML Diagram](uml-diagrams/Abstract Factory.png)
+![Abstract Factory UML Diagram](uml-diagrams/Abstract-Factory.png)
 
 #### Implementation Steps
 **Steps**
